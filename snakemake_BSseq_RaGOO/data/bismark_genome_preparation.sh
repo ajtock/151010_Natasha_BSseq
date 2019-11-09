@@ -1,0 +1,1 @@
+/home/ajt200/analysis/151010_Natasha_BSseq/snakemake_BSseq_RaGOO/data/index/bismark_genome_preparation.sh
